@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: antiquewhite;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+
+    text-align: center;
+}
+
+#quiz-items{
+    margin: 1% 40%;
+    padding: 1em;
+    background-color: rgb(162, 241, 215);
+}
+
+#submit{
+    border-radius: 0.5em;
+    border-color: rgb(46, 165, 42);
+}
+
+button {
+    background-color: rgb(46, 165, 42);
+    color: rgb(253, 253, 253);
+}
